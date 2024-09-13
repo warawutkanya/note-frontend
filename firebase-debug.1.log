@@ -1,0 +1,23 @@
+[debug] [2024-09-11T10:00:28.898Z] ----------------------------------------------------------------------
+[debug] [2024-09-11T10:00:28.900Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\janth\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init --debug
+[debug] [2024-09-11T10:00:28.901Z] CLI Version:   13.16.0
+[debug] [2024-09-11T10:00:28.901Z] Platform:      win32
+[debug] [2024-09-11T10:00:28.901Z] Node Version:  v20.10.0
+[debug] [2024-09-11T10:00:28.901Z] Time:          Wed Sep 11 2024 17:00:28 GMT+0700 (เวลาอินโดจีน)
+[debug] [2024-09-11T10:00:28.901Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-11T10:00:28.907Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-11T10:00:28.908Z] > authorizing via signed-in user (onon1054@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\envisory\note-easy
+
+[error] 
+[error] Error: Must select at least one feature. Use SPACEBAR to select features, or specify a feature by running firebase init [feature_name]
